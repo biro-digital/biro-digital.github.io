@@ -4,14 +4,14 @@ page_title                                : Biro Digital                        
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+appstore_link                             : google.com                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            : google.com                                          # Enter Google Play Store URL.
+presskit_download_link                    : google.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/logobt.png                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_logo                                  : assets/logobiro.png                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_logo                                  : assets/logobranco.png                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Biro Digital                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Contrate advogados e acompanhe processos na palma da sua mão.
 
@@ -20,9 +20,9 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 :                                 
-your_link                                 :                     
-your_city                                 :                                 
+your_name                                 : Biro Digital                                
+your_link                                 : Biro.digital                    
+your_city                                 : Belo Horizonte - MG                                
 email_address                             : contato@biro.digital
 facebook_username                         : Bir%C3%B4-106709911577038                                          
 instagram_username                        : biro_digital
@@ -36,9 +36,29 @@ linkedin_username                         : company/birôdigital
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Nova Funcionalidade # New Feature Title
+    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec massa ut lectus pellentesque pretium. In egestas pretium leo, vel tincidunt quam. Morbi libero nisl, viverra vitae massa in, condimentum. # New Feature Description
+    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  
+  - title                                 : Nova Funcionalidade # New Feature Title
+    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec massa ut lectus pellentesque pretium. In egestas pretium leo, vel tincidunt quam. Morbi libero nisl, viverra vitae massa in, condimentum. # New Feature Description
+    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  
+  - title                                 : Nova Funcionalidade # New Feature Title
+    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec massa ut lectus pellentesque pretium. In egestas pretium leo, vel tincidunt quam. Morbi libero nisl, viverra vitae massa in, condimentum. # New Feature Description
+    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  
+  - title                                 : Nova Funcionalidade # New Feature Title
+    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec massa ut lectus pellentesque pretium. In egestas pretium leo, vel tincidunt quam. Morbi libero nisl, viverra vitae massa in, condimentum. # New Feature Description
+    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  
+  - title                                 : Nova Funcionalidade # New Feature Title
+    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec massa ut lectus pellentesque pretium. In egestas pretium leo, vel tincidunt quam. Morbi libero nisl, viverra vitae massa in, condimentum. # New Feature Description
+    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  
+  - title                                 : Nova Funcionalidade # New Feature Title
+    description                           : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec massa ut lectus pellentesque pretium. In egestas pretium leo, vel tincidunt quam. Morbi libero nisl, viverra vitae massa in, condimentum. # New Feature Description
+    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
@@ -47,9 +67,9 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/alternativeheaderimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.3
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
@@ -64,8 +84,8 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#E7004C"
+feature_icons_background_color            : "#EAEBEF"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
