@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Criando nova página
-include_in_header: true
+title: New Page
+include_in_header: false
 published: false
 
 ---
