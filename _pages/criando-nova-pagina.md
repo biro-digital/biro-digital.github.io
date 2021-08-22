@@ -2,7 +2,6 @@
 layout: page
 title: New Page
 include_in_header: false
-published: false
 
 ---
 dsddaLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor egestas facilisis. Nulla facilisi. Aliquam id sollicitudin tellus, eget interdum neque. Nam in leo consectetur ante congue tempor. Integer Vehicula vel nisi eu cursus. Maecenas ut nulla facilisis, tincidunt quam ut, ultricies nunc. In vitae tellus est. Duis ornare neque sit amet tellus dignissim, em interdum erat accumsan.
