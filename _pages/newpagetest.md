@@ -14,8 +14,6 @@ Sed sit amet turpis auctor, faucibus velit vitae, imperdiet nisi. Nam dapibus ve
 
 Suspendisse at euismod nisi, pellentesque convallis lorem. Vivamus sit amet tincidunt justo, sit amet mollis risus. Eneano em nibh convallis, congue libero ut, finibus lacus. Donec scelerisque felis mi, vitae pulvinar augue faucibus eleifend. Sed em porta justo. Suspendisse potenti. Vivamus Vehicula vel metus sagittis ullamcorper. Fusce aliquam ex nec est consectetur gravida. Phasellus dignissim risus nibh, ut imperdiet ligula dictum fringilla. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus
 
-| Campo | Segundo | Terceir |
-
-| ------- | --------- | --------- |
-
-| R $ 10 | $ 50 | R $ 70 |
+| Campo  | Segundo  | Terceiro  |
+|--------|:--------:|:---------:|
+| R$ 10  | $50      | R$ 70     |
