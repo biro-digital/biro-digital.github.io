@@ -1,13 +1,11 @@
 ---
-layout: ''
+layout: page
 title: Criando nova página
 include_in_header: true
 published: false
 
 ---
-***
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor egestas facilisis. Nulla facilisi. Aliquam id sollicitudin tellus, eget interdum neque. Nam in leo consectetur ante congue tempor. Integer Vehicula vel nisi eu cursus. Maecenas ut nulla facilisis, tincidunt quam ut, ultricies nunc. In vitae tellus est. Duis ornare neque sit amet tellus dignissim, em interdum erat accumsan.
+dsddaLorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor egestas facilisis. Nulla facilisi. Aliquam id sollicitudin tellus, eget interdum neque. Nam in leo consectetur ante congue tempor. Integer Vehicula vel nisi eu cursus. Maecenas ut nulla facilisis, tincidunt quam ut, ultricies nunc. In vitae tellus est. Duis ornare neque sit amet tellus dignissim, em interdum erat accumsan.
 
 Nunc vel consequat diam, eu congue enim. Ut consequat pretium orci. Fusce arcu ex, volutpat vel nisi ut, viverra sodales odio. Nibh purus inteiro, ornare vitae nunc id, molestie elementum urna. Phasellus pretium interdum est quis pulvinar. Etiam dignissim risus eget tortor accumsan ullamcorper. Maecenas ut pharetra dolor. Curabitur suscipit, sapien eget tempor tristique, sapien dui rutrum dui, eget volutpat mauris ante ac eros.
 
