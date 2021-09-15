@@ -1,0 +1,15 @@
+---
+label: modelo
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: include_in_header
+  label: include_in_header
+pages:
+- _pages/criando-nova-pagina.md
