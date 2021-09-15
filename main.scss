@@ -32,6 +32,7 @@ $social-icons-background-color: {{ site.social_icons_background_color }};
 
 $brand-color: #E7004C;
 $secondary-brand-color: #E7004C;
+$mid-point: "(min-width: 620px)";
 
 @import 
     "base",
