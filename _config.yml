@@ -38,27 +38,27 @@ features                                  :
 
   - title                                 : Ambiente Online Seguro # New Feature Title
     description                           : Os seus dados pessoais estão seguros com a gente! Os mesmos serão tratados conforme a Lei Geral de Proteção de Dados e hipótese alguma repassados a terceiros. # New Feature Description
-    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : lock # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   
   - title                                 : Pagamento Seguro com Garantia # New Feature Title
     description                           : Todo o processo de pagamento conta com criptografia de ponta a ponta garantindo toda segurança do início ao fim. # New Feature Description
-    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : money-check-alt # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   
   - title                                 : Acompanhe seus processo sempre que quiser  # New Feature Title
     description                           : Após registrar a ação e realizar todas as etapas posteriores. Você consegue acompanhar seu processo sempre que quiser! # New Feature Description
-    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : thumbtack # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   
   - title                                 : Seja avisado quando houver um andamento no processo # New Feature Title
     description                           : Obtemos  transparência em todas as etapas da gestão de causas judiciais, por isso tendo qualquer andamento no processo você receberá uma notificação do app com as informações atualizadas. # New Feature Description
-    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : bell # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   
   - title                                 : Organize seus Documentos # New Feature Title
     description                           : Prepare e envie documentos referentes a causas judiciais com facilidade e garanta que seu processo será publicado com rigor dentro das conformidades acordadas pelo seu advogado. # New Feature Description
-    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : file-pdf # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   
   - title                                 : Advogados focados em sua especialidade # New Feature Title
     description                           : Com a Birô ,  advogados podem atuar focados em sua especialidade com zero preocupação sobre as questões administrativas.  # New Feature Description
-    fontawesome_icon_name                 : address-book # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : user-tie # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
