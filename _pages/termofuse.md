@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Term of use
-include_in_header: false
+title: Termo de Uso
+include_in_header: true
 ---
 
 ## TERMOS E CONDIÇÕES GERAIS PARA USO DO APLICATIVO

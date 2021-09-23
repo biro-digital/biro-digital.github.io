@@ -30,13 +30,7 @@ $feature-icons-background-color: {{ site.feature_icons_background_color }};
 $social-icons-foreground-color: {{ site.social_icons_foreground_color }};
 $social-icons-background-color: {{ site.social_icons_background_color }};
 
-$brand-color: #E7004C;
-$secondary-brand-color: #E7004C;
-$mid-point: "(min-width: 620px)";
-
 @import 
     "base",
     "layout",
-    "github-markdown",
-    "contact",
-    "forms"
+    "github-markdown"
