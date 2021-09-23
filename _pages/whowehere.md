@@ -8,6 +8,8 @@ include_in_header: true
 
 A Birô é uma plataforma digital para serviços jurídicos, no qual pessoas físicas e empresas (escritórios de advocacia e advogados autônomos) obtêm garantia da gestão e transparência em todas as etapas do processo. Além disso, a plataforma permite que advogados realizem negócios e atuem focados em sua especialidade com zero preocupação sobre as questões administrativas.
 
+![Imagem Fundo](https://www.biro.digital/assets/alternativeheaderimage.jpg)
+
 ## SOBRE ESTE APP
 
 Entre com um processo online com segurança, contrate advogados e acompanhe processos na palma da sua mão! 
