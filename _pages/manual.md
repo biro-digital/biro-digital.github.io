@@ -8,4 +8,4 @@ include_in_header: true
 
 Colocar uma frase aqui
 
-[Clique aqui]({{ site.url }}/assets/manual.pdf) para acessar o Manual do Aplicativo e não ter dúvidas no seu cadastro.
+[Clique aqui]({{ site.url }}/assets/manual.pdf) para acessar o Manual do Aplicativo e não tenha dúvidas no seu cadastro.
