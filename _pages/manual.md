@@ -6,6 +6,4 @@ include_in_header: true
 
 ## Manual do Aplicativo Birô Digital
 
-Colocar uma frase aqui
-
-[Clique aqui]({{ site.url }}/assets/manual.pdf) para acessar o Manual do Aplicativo e não tenha dúvidas no seu cadastro.
+[![Imagem Fundo](https://www.biro.digital/assets/alternativeheaderimage.jpg)]({{ site.url }}/assets/manual.pdf)
