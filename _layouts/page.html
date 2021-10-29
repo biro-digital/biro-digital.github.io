@@ -5,7 +5,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-{% include head.html %}
+    {% if page.display_support == true %}
+        {% include head_jivo.html %}
+    {% else %}
+        {% include head.html %}
+    {% endif %}
 
 <body class="subPageBody">
     <div class="headerBackground subPageHeaderBackground">

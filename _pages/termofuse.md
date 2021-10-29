@@ -2,6 +2,7 @@
 layout: page
 title: Termo de Uso
 include_in_header: true
+display_support: false
 ---
 
 ## TERMOS E CONDIÇÕES GERAIS PARA USO DO APLICATIVO

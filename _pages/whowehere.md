@@ -2,6 +2,7 @@
 layout: page
 title: Quem Somos
 include_in_header: true
+display_support: true
 ---
 
 ## QUEM SOMOS

@@ -2,6 +2,7 @@
 layout: page
 title: FAQ
 include_in_header: true
+display_support: true
 ---
 
 ## FAQ

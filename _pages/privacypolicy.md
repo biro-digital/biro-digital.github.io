@@ -2,6 +2,7 @@
 layout: page
 title: Política de Privacidade
 include_in_header: true
+display_support: false
 ---
 
 ## POLÍTICA DE PRIVACIDADE
