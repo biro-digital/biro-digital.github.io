@@ -45,7 +45,7 @@ O aplicativo Birô Digital está disponível para sistemas Android ou iOS, você
 
 ### Qual o objetivo do aplicativo?
 
-O aplicativo Birô foi desenvolvido para ser uma plataforma segura, que visa facilitar a sua vida e descomplicar o acompanhamento dos seus processos.
+O aplicativo Birô foi desenvolvido para ser uma plataforma segura que visa facilitar a sua vida e descomplicar o acompanhamento dos seus processos. 
 
 ### Como acompanhar o andamento do meu processo?
 
@@ -69,7 +69,7 @@ Leia os [Termo de Uso]({{ site.url }}/termofuse) do aplicativo para mais informa
 
 ### Quais documentos preciso para cadastrar em uma ação?
 
-Documento de identificação com foto (RG ou CNH), endereço, documentos que serão anexados ao processo, como extrato de contribuição, extrato de pagamento do benefício e cálculo de concessão do benefício.
+Documento de identificação com foto (RG ou CNH), endereço, documentos que serão anexados ao processo como extrato de contribuição, extrato de pagamento do benefício e cálculo de concessão do benefício. 
 
 ### Quanto tempo leva a análise de documentos?
 
