@@ -57,7 +57,7 @@ A Birô segue todas as normas e padrões de segurança de dados LGPD (Lei Geral 
 
 ### Quais são os canais de atendimento da Birô?
 
-Fale conosco via [WhatsApp](https://wa.me/553131811360) ou entre em contato pelo chat do nosso site www.biro.digital
+Fale conosco via [WhatsApp](https://wa.me/553131811360) ou entre em contato pelo chat do nosso [Site](https://www.biro.digital)
 
 ### Eu preciso ter uma conta para usar os serviços da Birô?
 
@@ -65,7 +65,7 @@ Sim, é necessário ter uma conta no nosso aplicativo.
 
 ### Quem pode usar os serviços da Birô?
 
-Leia os Termos de Uso do aplicativo para mais informações. [Termo de Uso]({{ site.url }}/termofuse)
+Leia os [Termo de Uso]({{ site.url }}/termofuse) do aplicativo para mais informações. 
 
 ### Quais documentos preciso para cadastrar em uma ação?
 
