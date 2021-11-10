@@ -100,4 +100,4 @@ Sim, é enviado uma cópia do contrato para o seu e-mail cadastrado.
 
 ### Meu nome tem numeral, como devo realizar meu cadastro?
 
-Para que não haja divergências na validação do contrato é necessário que você coloque seu nome completo por extenso
+Para que não haja divergências na validação do contrato é necessário que você coloque seu nome completo por extenso.
