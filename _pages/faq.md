@@ -36,6 +36,8 @@ display_support: true
 
 **[Consigo ter acesso ao contrato a qualquer momento?](#consigo-ter-acesso-ao-contrato-a-qualquer-momento)**
 
+**[Meu nome tem numeral, como devo realizar meu cadastro?](#meu-nome-tem-numeral-como-devo-realizar-meu-cadastro)**
+
 ### Como usar a Birô?
 
 Entre na Apple Store (IOS) ou Play Store (Android), pesquise por Birô Digital, baixe o app, faça o seu cadastro, siga o passo a passo, insira seus documentos e pronto! Seu processo será protocolado e você poderá acompanhá-lo.
@@ -95,3 +97,7 @@ Verifique se está inserindo o código correto. O código da ação é diferente
 ### Consigo ter acesso ao contrato a qualquer momento?
 
 Sim, é enviado uma cópia do contrato para o seu e-mail cadastrado.
+
+### Meu nome tem numeral, como devo realizar meu cadastro?
+
+Para que não haja divergências na validação do contrato é necessário que você coloque seu nome completo por extenso
