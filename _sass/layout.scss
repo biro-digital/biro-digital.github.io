@@ -697,3 +697,9 @@ footer {
 .hidden {
 	display: none;
 }
+
+nav > ul li a:link.entrar,
+nav > ul li a:visited.entrar {
+	text-decoration: none;
+	color:  $accent-color;
+}
