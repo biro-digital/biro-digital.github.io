@@ -24,9 +24,9 @@
 				<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
 				{% endif %}
 			{% endfor %}
-			{% if site.presskit_download_link %}
-				<li><strong><a class="entrar" href="{{ site.presskit_download_link }}">Entrar</a></strong></li>
-			{% endif %}
 		</ul>
+		{% if site.site_client_link %}
+		<div><a class="myButton" href="{{ site.site_client_link}}">Entrar</a></div>
+	{% endif %}
 	</nav>
 </header>

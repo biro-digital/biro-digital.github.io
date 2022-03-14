@@ -7,7 +7,7 @@ display_support: false
 
 ## TERMOS E CONDIÇÕES GERAIS PARA USO DO APLICATIVO
 
-Os serviços do APLICATIVO BIRÔ são fornecidos pela pessoa jurídica OU física com a seguinte Razão Social/Nome: BIRO SOLUCOES E TECNOLOGIA LTDA, com nome fantasia BIRÔ, inscrito no CNPJ/CPF sob o nº 37.078.970/0001-10, titular da propriedade intelectual sobre software, website, aplicativos, conteúdos e demais ativos relacionados à plataforma BIRÔ.
+Os serviços do APLICATIVO Luisa Moraes são fornecidos pela pessoa jurídica OU física com a seguinte Razão Social/Nome: BIRO SOLUCOES E TECNOLOGIA LTDA, com nome fantasia BIRO, inscrito no CNPJ/CPF sob o nº 37.078.970/0001-10, titular da propriedade intelectual sobre software, website, aplicativos, conteúdos e demais ativos relacionados à plataforma Luisa Moraes.
 
 **01. DO OBJETO**
 
@@ -29,9 +29,9 @@ A aceitação do presente instrumento é imprescindível para o acesso e para a 
 
 Serão utilizadas todas as soluções técnicas à disposição do responsável pela plataforma para permitir o acesso ao serviço 24 (vinte e quatro) horas por dia, 7 (sete) dias por semana. No entanto, a navegação na plataforma ou em alguma de suas páginas poderá ser interrompida, limitada ou suspensa para atualizações, modificações ou qualquer ação necessária ao seu bom funcionamento.
 
-A Birô não se responsabiliza por nenhuma perda de oportunidade ou prejuízos que esta indisponibilidade temporária possa gerar aos usuários.
+A Luisa Moraes não se responsabiliza por nenhuma perda de oportunidade ou prejuízos que esta indisponibilidade temporária possa gerar aos usuários.
 
-Em caso de manutenção que exigirem um tempo maior, a Birô irá informar previamente aos clientes da necessidade e do tempo previsto em que o site ou plataforma ficará offline.
+Em caso de manutenção que exigirem um tempo maior, a Luisa Moraes irá informar previamente aos clientes da necessidade e do tempo previsto em que o site ou plataforma ficará offline.
 
 **04. DO CADASTRO**
 
@@ -55,7 +55,7 @@ Não será permitido ceder, vender, alugar ou transferir, de qualquer forma, a c
 
 Caberá ao usuário assegurar que o seu equipamento seja compatível com as características técnicas que viabilize a utilização da plataforma e dos serviços ou produtos.
 
-O usuário poderá, a qualquer tempo, requerer o cancelamento de seu cadastro junto ao e-mail contato@biro.digital OU aplicativo BIRÔ. O seu descadastramento será realizado o mais rápido possível, desde que não sejam verificados débitos em aberto.
+O usuário poderá, a qualquer tempo, requerer o cancelamento de seu cadastro junto ao e-mail contato@biro.digital OU aplicativo Luisa Moraes. O seu descadastramento será realizado o mais rápido possível, desde que não sejam verificados débitos em aberto.
 
 O usuário, ao aceitar os Termos e Política de Privacidade, autoriza expressamente a plataforma a coletar, usar, armazenar, tratar, ceder ou utilizar as informações derivadas do uso dos serviços, do site e quaisquer plataformas, incluindo todas as informações preenchidas pelo usuário no momento em que realizar ou atualizar seu cadastro, além de outras expressamente descritas na Política de Privacidade que deverá ser autorizada pelo usuário.
 
@@ -83,7 +83,7 @@ A contratação dos serviços será renovada automaticamente pela plataforma, in
 
 **07. DO CANCELAMENTO**
 
-O usuário poderá cancelar a contratação dos serviços de acordo com os termos que forem definidos no momento de sua contratação. Ainda, o usuário também poderá cancelar os serviços em até 7 (sete) dias após a contratação, mediante contato com o contato@birô.digital, de acordo com o [Código de Defesa do Consumidor](https://www.jusbrasil.com.br/legislacao/91585/c%C3%B3digo-de-defesa-do-consumidor-lei-8078-90) (Lei no. [8.078](https://www.jusbrasil.com.br/legislacao/91585/c%C3%B3digo-de-defesa-do-consumidor-lei-8078-90)/90).
+O usuário poderá cancelar a contratação dos serviços de acordo com os termos que forem definidos no momento de sua contratação. Ainda, o usuário também poderá cancelar os serviços em até 7 (sete) dias após a contratação, mediante contato com o contato@biro.digital, de acordo com o [Código de Defesa do Consumidor](https://www.jusbrasil.com.br/legislacao/91585/c%C3%B3digo-de-defesa-do-consumidor-lei-8078-90) (Lei no. [8.078](https://www.jusbrasil.com.br/legislacao/91585/c%C3%B3digo-de-defesa-do-consumidor-lei-8078-90)/90).
 
 O serviço poderá ser cancelado por:
 
@@ -103,7 +103,7 @@ c) pelo cumprimento e respeito ao conjunto de regras disposto nesse Termo de Con
 
 d) pela proteção aos dados de acesso à sua conta/perfil (login e senha).
 
-É de responsabilidade da plataforma BIRÔ:
+É de responsabilidade da plataforma Luisa Moraes:
 
 a) indicar as características do serviço ou produto;
 
@@ -139,11 +139,11 @@ c) que tenha qualquer comportamento fraudulento, doloso ou que ofenda a terceiro
 
 **11. DA RESCISÃO**
 
-A não observância das obrigações pactuadas neste Termo de Uso ou da legislação aplicável poderá, sem prévio aviso, ensejar a imediata rescisão unilateral por parte da razão social BIRO SOLUCOES E TECNOLOGIA LTDA e o bloqueio de todos os serviços prestados ao usuário.
+A não observância das obrigações pactuadas neste Termo de Uso ou da legislação aplicável poderá, sem prévio aviso, ensejar a imediata rescisão unilateral por parte da razão social Luisa Moraes SOLUCOES E TECNOLOGIA LTDA e o bloqueio de todos os serviços prestados ao usuário.
 
 **12. DAS ALTERAÇÕES**
 
-Os itens descritos no presente instrumento poderão sofrer alterações, unilateralmente e a qualquer tempo, por parte de BIRO SOLUCOES E TECNOLOGIA LTDA, para adequar ou modificar os serviços, bem como para atender novas exigências legais. As alterações serão veiculadas OU pelo site www.biro.digital OU pelo aplicativo BIRÔ e o usuário poderá optar por aceitar o novo conteúdo ou por cancelar o uso dos serviços, caso seja assinante de algum serviço.
+Os itens descritos no presente instrumento poderão sofrer alterações, unilateralmente e a qualquer tempo, por parte de BIRO SOLUCOES E TECNOLOGIA LTDA, para adequar ou modificar os serviços, bem como para atender novas exigências legais. As alterações serão veiculadas OU pelo site www.biro.digital OU pelo aplicativo Luisa Moraes e o usuário poderá optar por aceitar o novo conteúdo ou por cancelar o uso dos serviços, caso seja assinante de algum serviço.
 
 Os serviços oferecidos podem, a qualquer tempo e unilateralmente, e sem qualquer aviso prévio, ser deixados de fornecer, alterados em suas características, bem como restringido para o uso ou acesso.
 
