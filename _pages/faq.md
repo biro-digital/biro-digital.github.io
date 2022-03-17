@@ -1,8 +1,8 @@
 ---
 layout: page
 title: FAQ
-include_in_header: true
-display_support: true
+include_in_header: false
+display_support: false
 ---
 
 ## FAQ
