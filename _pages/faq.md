@@ -30,8 +30,6 @@ display_support: false
 
 **[Inseri algum dado incorreto no cadastro. O que faço?](#inseri-algum-dado-incorreto-no-cadastro-o-que-faço)**
 
-**[Não recebi o SMS com código.](#não-recebi-o-sms-com-código)**
-
 **[O código da ação não foi aceito, o que devo fazer?](#o-código-da-ação-não-foi-aceito-o-que-devo-fazer)**
 
 **[Consigo ter acesso ao contrato a qualquer momento?](#consigo-ter-acesso-ao-contrato-a-qualquer-momento)**
