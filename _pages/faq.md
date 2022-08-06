@@ -1,26 +1,26 @@
 ---
 layout: page
 title: FAQ
-include_in_header: false
+include_in_header: true
 display_support: false
 ---
 
 ## FAQ
-**[Como usar a Birô?](#como-usar-a-birô)**
+**[Como usar a Luisa Moraes App?](#como-usar-a-luisa-moraes-app)**
 
-**[Como baixar o aplicativo da Birô?](#como-baixar-o-aplicativo-da-birô)**
+**[Como baixar o aplicativo da Luisa Moraes App?](#como-baixar-o-aplicativo-da-luisa-moraes-app)**
 
 **[Qual o objetivo do aplicativo?](#qual-o-objetivo-do-aplicativo)**
 
 **[Como acompanhar o andamento do meu processo?](#como-acompanhar-o-andamento-do-meu-processo)**
 
-**[O aplicativo Birô é seguro?](#o-aplicativo-birô-é-seguro)**
+**[O aplicativo Luisa Moraes App é seguro?](#o-aplicativo-luisa-moraes-app-é-seguro)**
 
-**[Quais são os canais de atendimento da Birô?](#quais-são-os-canais-de-atendimento-da-birô)**
+**[Quais são os canais de atendimento da Luisa Moraes App?](#quais-são-os-canais-de-atendimento-da-luisa-moraes-app)**
 
-**[Eu preciso ter uma conta para usar os serviços da Birô?](#eu-preciso-ter-uma-conta-para-usar-os-serviços-da-birô)**
+**[Eu preciso ter uma conta para usar os serviços da Luisa Moraes App?](#eu-preciso-ter-uma-conta-para-usar-os-serviços-da-luisa-moraes-app)**
 
-**[Quem pode usar os serviços da Birô?](#quem-pode-usar-os-serviços-da-birô)**
+**[Quem pode usar os serviços da Luisa Moraes App?](#quem-pode-usar-os-serviços-da-luisa-moraes-app)**
 
 **[Quais documentos preciso para cadastrar em uma ação?](#quais-documentos-preciso-para-cadastrar-em-uma-ação)**
 
@@ -38,35 +38,35 @@ display_support: false
 
 **[Meu nome tem numeral, como devo realizar meu cadastro?](#meu-nome-tem-numeral-como-devo-realizar-meu-cadastro)**
 
-### Como usar a Birô?
+### Como usar a Luisa Moraes App?
 
-Entre na Apple Store (IOS) ou Play Store (Android), pesquise por Birô Digital, baixe o app, faça o seu cadastro, siga o passo a passo, insira seus documentos e pronto! Seu processo será protocolado e você poderá acompanhá-lo.
+Entre na Apple Store (IOS) ou Play Store (Android), pesquise por Luisa Moraes App, baixe o app, faça o seu cadastro, siga o passo a passo, insira seus documentos e pronto! Seu processo será protocolado e você poderá acompanhá-lo.
 
-### Como baixar o aplicativo da Birô?
+### Como baixar o aplicativo da Luisa Moraes App?
 
-O aplicativo Birô Digital está disponível para sistemas Android ou iOS, você precisa ir até a sua loja de aplicativos e procurar pelo nome Birô Digital ou clique no link da sua loja [Apple Store](https://apps.apple.com/br/app/birodigital/id1570370423) ou [Play Store](https://play.google.com/store/apps/details?id=com.biroapp)
+O aplicativo Luisa Moraes App está disponível para sistemas Android ou iOS, você precisa ir até a sua loja de aplicativos e procurar pelo nome Luisa Moraes App Digital ou clique no link da sua loja [Apple Store](https://apps.apple.com/br/app/id1570370423) ou [Play Store](https://play.google.com/store/apps/details?id=com.biroapp)
 
 ### Qual o objetivo do aplicativo?
 
-O aplicativo Birô foi desenvolvido para ser uma plataforma segura que visa facilitar a sua vida e descomplicar o acompanhamento dos seus processos. 
+O aplicativo Luisa Moraes App foi desenvolvido para ser uma plataforma segura que visa facilitar a sua vida e descomplicar o acompanhamento dos seus processos. 
 
 ### Como acompanhar o andamento do meu processo?
 
 É necessário se cadastrar no aplicativo, registrar na ação e quando essa etapa for finalizada você receberá uma notificação sobre o andamento do seu processo.
 
-### O aplicativo Birô é seguro?
+### O aplicativo Luisa Moraes App é seguro?
 
-A Birô segue todas as normas e padrões de segurança de dados LGPD (Lei Geral de Proteção de Dados). As informações recebidas pelo aplicativo são criptografadas e armazenadas em servidores seguros.
+A Luisa Moraes App segue todas as normas e padrões de segurança de dados LGPD (Lei Geral de Proteção de Dados). As informações recebidas pelo aplicativo são criptografadas e armazenadas em servidores seguros.
 
-### Quais são os canais de atendimento da Birô?
+### Quais são os canais de atendimento da Luisa Moraes App?
 
-Fale conosco via [WhatsApp](https://wa.me/553131811360) ou entre em contato pelo chat do nosso [Site](https://www.biro.digital)
+Fale conosco via [WhatsApp](https://wa.me/5531973489943) ou entre em contato pelo chat do nosso Email atendimento@luisamoraesadvogados.com.br
 
-### Eu preciso ter uma conta para usar os serviços da Birô?
+### Eu preciso ter uma conta para usar os serviços da Luisa Moraes App?
 
 Sim, é necessário ter uma conta no nosso aplicativo.
 
-### Quem pode usar os serviços da Birô?
+### Quem pode usar os serviços da Luisa Moraes App?
 
 Leia os [Termo de Uso]({{ site.url }}/termofuse) do aplicativo para mais informações. 
 
@@ -86,13 +86,9 @@ Entre no aplicativo, verifique o que foi reprovado, o motivo e envie novamente s
 
 Entre no aplicativo e edite suas informações antes de serem anexadas ao processo.
 
-### Não recebi o SMS com código.
-
-Por favor, verifique se o seu celular está disponível para receber SMS. Se não for o caso, entre em contato com nosso suporte via [WhatsApp](https://wa.me/553131811360)
-
 ### O código da ação não foi aceito, o que devo fazer?
 
-Verifique se está inserindo o código correto. O código da ação é diferente do código enviado por SMS. O código da ação é aquele fornecido pelo advogado ou entidade representativa, caso o problema persista solicite novamente o código da ação ao advogado ou entre em contato com nosso suporte via [WhatsApp](https://wa.me/553131811360)
+Verifique se está inserindo o código correto. O código da ação é diferente do código enviado por SMS. O código da ação é aquele fornecido pelo advogado ou entidade representativa, caso o problema persista solicite novamente o código da ação ao advogado ou entre em contato com nosso suporte via [WhatsApp](https://wa.me/5531973489943)
 
 ### Consigo ter acesso ao contrato a qualquer momento?
 
