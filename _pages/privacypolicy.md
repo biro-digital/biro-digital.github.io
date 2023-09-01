@@ -10,13 +10,13 @@ display_support: false
 
 **SEÇÃO 01 - INTRODUÇÃO**
 
-Ao usar o aplicativo da Luisa Moraes, você nos confia seus dados pessoais. Temos o compromisso de manter essa confiança. Para começar, queremos ajudar você a entender as nossas políticas de privacidade. Este aviso detalha os dados pessoais que coletamos, como são usados e compartilhados e as suas opções com relação a eles.
+Ao usar o aplicativo da Livr$, você nos confia seus dados pessoais. Temos o compromisso de manter essa confiança. Para começar, queremos ajudar você a entender as nossas políticas de privacidade. Este aviso detalha os dados pessoais que coletamos, como são usados e compartilhados e as suas opções com relação a eles.
 
 **SEÇÃO 02 - INFORMAÇÕES GERAIS**
 
-A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e/ou visitantes do aplicativo Luisa Moraes, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados, os motivos da coleta e a forma como os usuários podem gerenciar ou excluir as suas informações pessoais.
+A presente Política de Privacidade contém informações sobre coleta, uso, armazenamento, tratamento e proteção dos dados pessoais dos usuários e/ou visitantes do aplicativo Livr$, com a finalidade de demonstrar absoluta transparência quanto ao assunto e esclarecer a todos interessados sobre os tipos de dados que são coletados, os motivos da coleta e a forma como os usuários podem gerenciar ou excluir as suas informações pessoais.
 
-Esta Política de Privacidade aplica-se a todos os usuários e visitantes do aplicativo Luisa Moraes e integra os Termos e Condições Gerais de Uso do aplicativo Luisa Moraes, devidamente inscrita no CNPJ sob o nº 37.078.970/0001-10, situado em Rua Paracatu, 1154 – Sala 716, Santo Agostinho - MG, doravante nominada BIRO SOLUCOES E TECNOLOGIA LTDA.
+Esta Política de Privacidade aplica-se a todos os usuários e visitantes do aplicativo Livr$ e integra os Termos e Condições Gerais de Uso do aplicativo Livr$, devidamente inscrita no CNPJ sob o nº 37.078.970/0001-10, situado em Rua Paracatu, 1154 – Sala 716, Santo Agostinho - MG, doravante nominada BIRO SOLUCOES E TECNOLOGIA LTDA.
 
 O presente documento foi elaborado em conformidade com a Lei Geral de Proteção de Dados Pessoais (Lei 13.709/18), o Marco Civil da Internet (Lei 12.965/14) (e o Regulamento da UE n. 2016/6790). Ainda, o documento poderá ser atualizado em decorrência de eventual atualização normativa, razão pela qual se convida o usuário a consultar periodicamente esta seção.
 
@@ -24,11 +24,11 @@ O presente documento foi elaborado em conformidade com a Lei Geral de Proteção
 
 Os dados pessoais do usuário e visitante são recolhidos pela plataforma da seguinte forma:
 
-- Quando o usuário cria uma conta/perfil na plataforma Luisa Moraes: esses dados são os dados de identificação básicos, como e-mail, nome completo, cidade de residência, CPF, telefone de contato, profissão, etc. A partir deles, podemos identificar o usuário e o visitante, além de garantir uma maior segurança e satisfação às suas necessidades.
+- Quando o usuário cria uma conta/perfil na plataforma Livr$: esses dados são os dados de identificação básicos, como e-mail, nome completo, cidade de residência, CPF, telefone de contato, profissão, etc. A partir deles, podemos identificar o usuário e o visitante, além de garantir uma maior segurança e satisfação às suas necessidades.
 
-- Quando um usuário e visitante acessa páginas do aplicativo Luisa Moraes: as informações sobre interação e acesso são coletadas pela empresa para garantir uma melhor experiência ao usuário e visitante. Estes dados podem tratar sobre as palavras-chaves utilizadas em uma busca, o compartilhamento de um documento específico, comentários, visualizações de páginas, perfis, a URL de onde o usuário e visitante provêm, o navegador que utiliza e seus IPs de acesso, dentre outras que poderão ser armazenadas e retidas.
+- Quando um usuário e visitante acessa páginas do aplicativo Livr$: as informações sobre interação e acesso são coletadas pela empresa para garantir uma melhor experiência ao usuário e visitante. Estes dados podem tratar sobre as palavras-chaves utilizadas em uma busca, o compartilhamento de um documento específico, comentários, visualizações de páginas, perfis, a URL de onde o usuário e visitante provêm, o navegador que utiliza e seus IPs de acesso, dentre outras que poderão ser armazenadas e retidas.
 
-- Por intermédio de terceiro: a plataforma Luisa Moraes recebe dados de terceiros, como Facebook e Google, quando um usuário faz login com o seu perfil de um desses sites. A utilização desses dados é autorizada previamente pelos usuários junto ao terceiro em questão.
+- Por intermédio de terceiro: a plataforma Livr$ recebe dados de terceiros, como Facebook e Google, quando um usuário faz login com o seu perfil de um desses sites. A utilização desses dados é autorizada previamente pelos usuários junto ao terceiro em questão.
 
 - Outras
 
@@ -36,7 +36,7 @@ Os dados pessoais do usuário e visitante são recolhidos pela plataforma da seg
 
 Os dados pessoais do usuário e visitante recolhidos são os seguintes:
 
-- Dados para a criação da conta/perfil na plataforma Luisa Moraes: e-mail, nome completo, cidade de residência, CPF, RG ou CNH, telefone de contato e profissão.
+- Dados para a criação da conta/perfil na plataforma Livr$: e-mail, nome completo, cidade de residência, CPF, RG ou CNH, telefone de contato e profissão.
 
 - Dados para concretizar transações: dados referentes ao pagamento e transações, tais como, número do cartão de crédito e outras informações sobre o cartão, além dos pagamentos efetuados.
 
@@ -48,7 +48,7 @@ Os dados pessoais do usuário e visitante recolhidos são os seguintes:
 
 **SEÇÃO 05 - PARA QUAL FINALIDADES UTILIZAMOS OS DADOS PESSOAIS DO USUÁRIO E VISITANTE?**
 
-Os dados pessoais do usuário e do visitante coletados e armazenados pela plataforma Luisa Moraes tem por finalidade:
+Os dados pessoais do usuário e do visitante coletados e armazenados pela plataforma Livr$ tem por finalidade:
 
 - Bem-estar do usuário e visitante: aprimorar o produto e/ou serviço oferecido, facilitar, agilizar e cumprir os compromissos estabelecidos entre o usuário e a empresa, melhorar a experiência dos usuários e fornecer funcionalidades específicas a depender das características básicas do usuário.
 
@@ -118,7 +118,7 @@ Ao ser redirecionado para um aplicativo ou site de terceiros, você não será m
 
 Os cookies referem-se a arquivos de texto enviados pela plataforma ao computador do usuário e visitante e que nele ficam armazenados, com informações relacionadas à navegação no site. Tais informações são relacionadas aos dados de acesso como local e horário de acesso e são armazenadas pelo navegador do usuário e visitante para que o servidor da plataforma possa lê-las posteriormente a fim de personalizar os serviços da plataforma.
 
-O usuário e o visitante da plataforma Luisa Moraes manifestam conhecer e aceitar que pode ser utilizado um sistema de coleta de dados de navegação mediante a utilização de cookies.
+O usuário e o visitante da plataforma Livr$ manifestam conhecer e aceitar que pode ser utilizado um sistema de coleta de dados de navegação mediante a utilização de cookies.
 
 O cookie persistente permanece no disco rígido do usuário e visitante depois que o navegador é fechado e será usado pelo navegador em visitas subsequentes ao site. Os cookies persistentes podem ser removidos seguindo as instruções do seu navegador. Já o cookie de sessão é temporário e desaparece depois que o navegador é fechado. É possível redefinir seu navegador da web para recusar todos os cookies, porém alguns recursos da plataforma podem não funcionar corretamente se a capacidade de aceitar cookies estiver desabilitada.
 
